@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package com.damo;
+
+option java_multiple_files = true;
+option java_package = "com.damo.proto";
+option java_outer_classname = "AccountProto";
+
+message Account{
+  uint64 id = 1;
+  string name = 2;
+  bool is_verified = 3;
+}
+

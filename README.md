@@ -1,0 +1,1 @@
+# Scratch project for exercises / practise for linuxfoundation.org introduction-to-protocol-buffers-3-lfs145
